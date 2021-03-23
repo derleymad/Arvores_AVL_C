@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616522778 source:/home/derleyzim/Documentos/implementacao_arvoreAVL/Arvore/ArvoreAVL/ArvoreAVL.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1616522802 /home/derleyzim/Documentos/implementacao_arvoreAVL/Arvore/ArvoreAVL/ArvoreAVL.h
+
+1616522723 source:/home/derleyzim/Documentos/implementacao_arvoreAVL/Arvore/ArvoreAVL/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
